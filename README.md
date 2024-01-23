@@ -12,7 +12,7 @@
 [<img
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathamesh-pawale-a612832a8)
 [<img
-    src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=white&color=FFdf00" />](https://leetcode.com/prathameshpavale0)
+    src="https://img.shields.io/badge/leetcode-%230077B5.svg?&style=for-the-badge&logo=leetcode&logoColor=black&color=FFdf00" />](https://leetcode.com/prathameshpavale0)
 
 
 
